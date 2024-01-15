@@ -10,7 +10,7 @@ Keras: Deep learning library for building and training models.
 
 # Setup
 Clone the repository:
-git clone https://github.com/sanj16/emotion-detection.git
+git clone [https://github.com/sanj16/emotion-detection.git](https://github.com/sanj16/EmotionDetection)
 
 Install dependencies:
 pip install opencv-python numpy keras
